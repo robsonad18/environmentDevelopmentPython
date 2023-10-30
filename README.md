@@ -12,7 +12,7 @@
 #### Um novo icone tambem aparece na pesquisa 📌.
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/0a242ec8-b321-4744-8004-5b6ec75d5678)
 
-#### Abrindo o icone ele ira abrir um terminal ubuntu para você e apartir desse momento você está trabalhando em um ambiente linux no terminal, conseguindo instalar pacotes como yarn, npm, python, docker entre muitos outros 📦.
+#### Abrindo o icone ele ira abrir um terminal ubuntu para você e apartir desse momento você está trabalhando em um ambiente linux , conseguindo instalar pacotes como yarn, npm, python, docker entre muitos outros 📦.
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/181c72a9-0c68-4b21-8768-4fbae8ccc214)
 
 #### Comando para instalar o python "sudo apt install python3", para instalar quaisquer pacote do python use o comando "sudo pip install pacote_referente" 📦.
