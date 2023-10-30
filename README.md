@@ -20,7 +20,7 @@
 # Passo a passo trabalhando com Vs Code
 
 #### Abra seu terminal no ambiente ubuntu, como visto no passo a passo anterior, na raiz crie uma pasta com o comando "mkdir python_test" 📁
-#### Cria um arquivo python com o comando "touch python_test/main.py" 📄
+#### Crie um arquivo python com o comando "touch python_test/main.py" 📄
 #### Abra seu VS Code em uma nova janela, você vera a opção "Connect to", clique nela, escolha a opção "Connect to WSL" 📁
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/bc836c43-7f97-47fa-8ca2-7297b8952470)
 #### Clique no explorer do VS Code
