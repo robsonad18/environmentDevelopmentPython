@@ -1,25 +1,25 @@
 # environmentDevelopmentPython
 ❤️ Ambiente de desenvolvimento python com WSL e VS Code ❤️
 
-# Passo a passo WSL 2
+# Passo a passo WSL 2 🐙
 
-##### - Dentro do Windows pesquise por Microsoft Store
-##### - Pesquise por ubuntu, recomendo instalar a versão 22.04.2 LTS
+##### - Dentro do Windows pesquise por Microsoft Store.
+##### - Pesquise por ubuntu, recomendo instalar a versão 22.04.2 LTS 💻.
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/d7682458-9d1c-4050-9d2f-20e0a8d02a57)
 
 #### Apos estar instalado você verá uma nova pasta em seu explorador de arquivos
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/4e841172-fd3e-4973-91c1-b43951c549e4)
-#### Um novo icone tambem aparece na pesquisa
+#### Um novo icone tambem aparece na pesquisa.
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/0a242ec8-b321-4744-8004-5b6ec75d5678)
 
-#### Abrindo o icone ele ira abrir um terminal ubuntu para você e apartir desse momento você está trabalhando em um ambiente linux no terminal, conseguindo instalar pacoes como yarn, npm, python, docker entre muitos outros
+#### Abrindo o icone ele ira abrir um terminal ubuntu para você e apartir desse momento você está trabalhando em um ambiente linux no terminal, conseguindo instalar pacotes como yarn, npm, python, docker entre muitos outros.
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/181c72a9-0c68-4b21-8768-4fbae8ccc214)
 
-#### Comando para instalar o python "sudo apt install python3", para instalar quaisquer pacote do python use o comando "sudo pip install pacote_referente"
+#### Comando para instalar o python "sudo apt install python3", para instalar quaisquer pacote do python use o comando "sudo pip install pacote_referente" 📦.
 
 # Passo a passo trabalhando com Vs Code
 
-#### Abra seu terminal no ambiente ubuntu, como visto no passo a passo anterior, na raiz criar uma pasta com o comando "mkdir python_test"
+#### Abra seu terminal no ambiente ubuntu, como visto no passo a passo anterior, na raiz crie uma pasta com o comando "mkdir python_test"
 #### Cria um arquivo python com o comando "touch python_test/main.py"
 #### Abra seu VS Code em uma nova janela, você vera a opção "Connect to", clique nela, escolha a opção "Connect to WSL"
 ![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/bc836c43-7f97-47fa-8ca2-7297b8952470)
@@ -34,5 +34,18 @@
 #### https://marketplace.visualstudio.com/items?itemName=ms-python.python
 #### https://marketplace.visualstudio.com/items?itemName=ms-python.isort
 #### https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython
+#### https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+#### https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent
+#### (opcional) https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings
 
+---
 
+#### Apos estar com os pacotes instalados, abra um arquivo python e verá no canto superior direito o seguinte icone
+![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/8d7b6d09-8feb-4118-8b7e-fe0b1897d992)
+![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/fd7e168d-72a6-4740-a1c1-0a25e3fd97a8)
+#### Escolhendo a opção "Debug python file" você compilara o projeto e assim conseguira colocar breakpoint em seu programa
+![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/32f8f141-8057-4599-9b53-a88bf47a2a1b)
+![image](https://github.com/robsonad18/environmentDevelopmentPython/assets/64038141/8b60105b-9b11-44d3-8f59-9ae0fe072f78)
+
+# Fim 🚀
+#### Espero ter ajudado 🐙!
